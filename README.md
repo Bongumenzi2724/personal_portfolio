@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+site url https://vercel.com/bongumenzi2724/personal-portfolio
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
