@@ -53,6 +53,10 @@ import dashboard from '../assets/dashboard.jpg';
 import bankWebsite from '../assets/bankWebsite.jpg';
 import fitness from '../assets/fitness.jpg';
 import dev from '../assets/dev.png';
+import blockchain from '../assets/blockchain.jpeg';
+import musicApp from '../assets/streamingApp.jpeg';
+import metaverse from '../assets/metaverse.jpeg';
+import MetaMask_Fox from '../assets/MetaMask_Fox.png';
 
 import drKumar from '../assets/drKumar.jpg';
 import zola from '../assets/zola.jpg';
@@ -62,6 +66,10 @@ import ukznManager from '../assets/ukznManager.jpg';
 
 const images= {
   realEstate,
+  blockchain,
+  musicApp,
+  metaverse,
+  MetaMask_Fox,
   drKumar,
   zola,
   Zethembe,
