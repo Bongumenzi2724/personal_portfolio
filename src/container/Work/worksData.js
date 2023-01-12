@@ -63,7 +63,7 @@ const worksData = [
   },
   {
     id: 7,
-    title: 'Modern Music Streaming Application(Not Functional,API Update)',
+    title: 'Modern Music Streaming Application(Under Construction,API Update)',
     description: 'This is modern music streaming application that is similar to Spotify. It is created using ReactJS, material-ui, and RapidAPI API that provides data to the application. This application can be upgraded by using a paid api for a much more comprehensive music experience',
     projectLink: 'https://music-application-qn57.vercel.app/',
     codeLink: 'https://github.com/Bongumenzi2724',
