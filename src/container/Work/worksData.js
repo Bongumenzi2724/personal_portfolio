@@ -43,7 +43,7 @@ const worksData = [
   },
   {
     id: 5,
-    title: 'Modern React Real Estate Application',
+    title: 'Modern React Real Estate Application(Under Construction)',
     description: 'This a nextjs real estate application that demonstrates different real states from the UAE in South African currency.Designed using the css framework using chakra-ui and it also integrates an api from rapidapi.The Application is still under construction',
     projectLink: 'https://personal-portfolio-lovat-alpha.vercel.app/',
     codeLink: 'https://github.com/Bongumenzi2724',
@@ -53,7 +53,7 @@ const worksData = [
   },
   {
     id: 6,
-    title: 'Modern Crypto and Smart Contracts Application',
+    title: 'Modern Crypto and Smart Contracts Application(Under Construction)',
     description: 'This is a cryptocurrency application that demonstrates the UniSwap platform functionality.The Application is still under construction',
     projectLink: 'https://personal-portfolio-lovat-alpha.vercel.app/',
     codeLink: 'https://github.com/Bongumenzi2724',
@@ -63,7 +63,7 @@ const worksData = [
   },
   {
     id: 7,
-    title: 'Modern Music Streaming Application',
+    title: 'Modern Music Streaming Application(Not Functional,API Update)',
     description: 'This is modern music streaming application that is similar to Spotify. It is created using ReactJS, material-ui, and RapidAPI API that provides data to the application. This application can be upgraded by using a paid api for a much more comprehensive music experience',
     projectLink: 'https://music-application-qn57.vercel.app/',
     codeLink: 'https://github.com/Bongumenzi2724',
