@@ -4,7 +4,6 @@ import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
 import chakra from '../assets/chakra.jpeg';
 import expressjs from '../assets/expressjs.jpeg';
-import django from '../assets/django.jpg';
 import fastapi from '../assets/fastapi.png';
 import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
@@ -91,8 +90,6 @@ const images= {
   cpp,
   expressjs,
   chakra,
-  angular,
-  django,
   fastapi,
   mongoDB,
   ReduxT,
