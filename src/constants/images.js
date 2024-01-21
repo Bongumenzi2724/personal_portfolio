@@ -1,6 +1,5 @@
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
-import angular from '../assets/angular.jpg';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
 import chakra from '../assets/chakra.jpeg';
