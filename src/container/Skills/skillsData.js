@@ -33,62 +33,54 @@ const skillsData = [
   },
   {
     id: 7,
-    name: 'Vue(0.5yrs)',
-    icon: images.vue,
+    name: 'NextJS(2.5yrs)',
+    icon: images.nextjs,
   },
+  
   {
     id: 8,
-    name: 'Angular(1+yrs)',
-    icon: images.angular,
-  },
-  {
-    id: 9,
-    name: 'TypeScript(1+yrs)',
+    name: 'TypeScript(2.5+yrs)',
     icon: images.typescript,
   },
   {
-    id: 10,
+    id: 9,
     name: 'SASS(2+yrs)',
     icon: images.sass,
   },
   {
-    id: 11,
+    id: 10,
     name: 'Material-UI(2+yrs)',
     icon: images.mu5,
   },
+  
   {
-    id: 12,
-    name: 'Django(1.5+yrs)',
-    icon: images.django,
-  },
-  {
-    id: 13,
+    id: 11,
     name: 'React Native(2.5yrs)',
     icon: images.react,
   },
   {
-    id: 14,
-    name: 'Redux Toolkit',
+    id: 12,
+    name: 'Redux(2yrs)',
     icon: images.ReduxT,
   },
   {
-    id: 15,
+    id: 13,
     name: 'Git(3yrs)',
     icon: images.git,
   },
   {
-    id: 16,
+    id: 14,
     name: 'NodeJS(2+yrs)',
     icon: images.node,
   },
   {
-    id: 17,
+    id: 15,
     name: 'ExpressJS(1.5yrs)',
     icon: images.expressjs,
   },
   {
-    id: 18,
-    name: 'MongoDB(1.5yrs)',
+    id: 16,
+    name: 'MongoDB(2+yrs) and SQL',
     icon: images.mongoDB,
   },
 ];
