@@ -55,7 +55,7 @@ const skillsData = [
   
   {
     id: 11,
-    name: 'React Native(2.5yrs)',
+    name: 'React Native(3yrs)',
     icon: images.react,
   },
   {

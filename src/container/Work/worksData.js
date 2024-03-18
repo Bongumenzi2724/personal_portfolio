@@ -3,9 +3,9 @@ import { images } from '../../constants';
 const worksData = [
   {
     id: 1,
-    title: 'Modern UI/UX Website',
-    description: 'This is modern websites demonstrating the design and layout of modern website and is built using CSS3 and react.',
-    projectLink: 'https://modern-website-cyan.vercel.app/',
+    title: 'Apple iPhone 15 Pro Max Website',
+    description: 'Click the eye icon to see project and github icon to see the repo.Fullly animated iPhone 15 Pro Max with 3D models of the Product.Animations powered by GSAP for high-performance in every major browser. GSAP effortlessly handles browser inconsistencies,ensuring animations work seamlessly.',
+    projectLink: 'https://apple-website-steel.vercel.app/',
     codeLink: 'https://github.com/Bongumenzi2724',
     imgUrl: images.dev,
     tags: 'Web App',

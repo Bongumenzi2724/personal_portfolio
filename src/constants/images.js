@@ -52,7 +52,7 @@ import realEstate from '../assets/realEstate.jpg';
 import dashboard from '../assets/dashboard.jpg';
 import bankWebsite from '../assets/bankWebsite.jpg';
 import fitness from '../assets/fitness.jpg';
-import dev from '../assets/dev.png';
+import dev from '../assets/dev.jpg';
 import blockchain from '../assets/blockchain.jpeg';
 import musicApp from '../assets/streamingApp.jpeg';
 import metaverse from '../assets/metaverse.jpeg';
