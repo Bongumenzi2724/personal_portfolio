@@ -101,5 +101,15 @@ const worksData = [
     tags: 'React JS',
     tag: 'Application tag',
   },
+  {
+    id: 10,
+    title: 'Business Management API Developed using NodeJS and MongoDB',
+    description: 'Business Management API with full authentication and authorization. Fully integrated with MongoDB, authorization implemented with JWT tokens. Fully documented with Swagger-UI click the eye icon for project viewing and github icon for repo viewing',
+    projectLink: 'https://adlinc-api.onrender.com/api-docs/',
+    codeLink: 'https://github.com/Bongumenzi2724/Slaschapp-API',
+    imgUrl: images.MetaMask_Fox,
+    tags: 'React JS',
+    tag: 'Application tag',
+  },
 ];
 export default worksData;
