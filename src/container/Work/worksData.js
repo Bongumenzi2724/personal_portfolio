@@ -94,7 +94,7 @@ const worksData = [
   {
     id: 10,
     title: 'Books API Developed using NodeJS and MongoDB',
-    description: 'Books API With full CRUD functionality and authentication',
+    description: 'Books API With full CRUD functionality and authentication with full authentication and authorization implemented with JWT tokens.',
     projectLink: 'https://github.com/Bongumenzi2724/nodejs-books-api',
     codeLink: 'https://github.com/Bongumenzi2724/nodejs-books-api',
     imgUrl: images.MetaMask_Fox,
